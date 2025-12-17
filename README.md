@@ -6,4 +6,4 @@
 <details>Analizador de redes
   <p>Programa para detectar las redes disponibles. Adicionalmente, proporciona informacion de dichas redes</p>
   </details>
-<h3 align="center">Autor: Jan Closas Font</h1>
+<h4 align="center">Autor: Jan Closas Font</h4>
